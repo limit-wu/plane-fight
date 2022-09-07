@@ -1,24 +1,7 @@
-# plane-fight
+# 飞机大战
 
-## Project setup
-```
-npm install
-```
+##### 这是一个通过vue3及pixi开发的飞机大战小游戏
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+##### 通过vue3的自定义渲染将页面渲染到canvas中
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+##### 通过上下左右方向键控制飞机，按空格键进行子弹发射
